@@ -1,4 +1,4 @@
-## Tecno Devs Team MCHJ
+## Techno Devs Team MCHJ
 
 <i>Manba Kodidan Foydalanish Uchun Qo'llanma</i>
 `ReactJS` yordamida yaratilgan
